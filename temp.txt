@@ -1,0 +1,59 @@
+<div class="container">
+	<div class="row">
+		<div class="col-xs-1">
+			<p>Home</p>
+		</div>
+		<div class="col-xs-1">
+			<p>Aerial</p>
+		</div>
+		<div class="col-xs-1">
+			<p>Architecture</p>
+		</div>
+		<div class="col-xs-1">
+			<p>Street up</p>
+		</div>
+		<div class="col-xs-1">
+			<p>About</p>
+		</div>
+		<div class="col-xs-1">
+			<p>Contact</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class=" col-xs-4">
+				<img src="Images/19243602_813647028810174_1774452455_o.jpg" style="width:350px;height:250px;">
+		</div>
+		<div class=" col-xs-4">
+				<img src="Images/19243671_813647035476840_147829596_o.jpg" style="width:350px;height:250px;">
+		</div>
+		<div class=" col-xs-4">
+				<img src="Images/19449616_813647042143506_106363861_o.jpg" style="width:350px;height:250px;">
+		</div>
+	</div>
+	<div class="row">
+		
+		<div class=" col-xs-4">
+				<img src="Images/19457803_813647045476839_1707573151_o.jpg" style="width:350px;height:250px;">
+		</div>
+		<div class=" col-xs-4">
+				<img src="Images/19478760_813647015476842_1640754226_o.jpg" style="width:350px;height:250px;">
+		</div>
+		<div class=" col-xs-4">
+				<img src="Images/19490137_813647018810175_1018650749_o.jpg" style="width:350px;height:250px;">
+		</div>
+	</div>
+	<div class="row">
+		<div class=" col-xs-12">
+				<p>Contact Us</p>
+		</div>
+	</div>
+</div>
+
+
+	<!-- AngularJS --> 
+	<script src="js/angular.min.js"></script>
+
+		<!--jQuery - required for Bootstrap's Javascript plugins) -->
+	<script src="js/jquery.min.js"></script>
+	<!-- Bootstrap plug-in file -->
+	<script src="js/bootstrap.min.js"></script>

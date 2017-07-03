@@ -1,0 +1,31 @@
+
+body {
+    background-color: black;
+}
+
+
+h4{
+    color: white;
+}
+
+ul{
+    background-color: black;
+}
+.navbar{
+    background-color: black;
+}
+
+.main{
+    background-color: black;
+}
+.jumbotron{
+    background-color: black;
+}
+
+.navbar-default{
+    border-color: Black;  
+}
+
+img{
+    position: Right;
+}
