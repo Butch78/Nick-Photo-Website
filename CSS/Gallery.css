@@ -1,0 +1,27 @@
+
+
+.gallery{
+  padding: .5vw;
+  font-size: 0;
+  display: -ms-flexbox;
+  flex-wrap: wrap;
+  flex-direction: column;
+  -webkit-flex-flow: row wrap; 
+  flex-flow: row wrap; 
+  display: -webkit-box;
+  display: flex;
+}
+
+.gallery .flex-grid   {
+  -webkit-box-flex: auto;
+  -ms-flex: auto;
+  flex: auto; 
+  width: 200px; 
+  margin: .5vw;  
+}
+
+.gallery .flex-grid img{
+    width: 100%;
+    height: auto; 
+    padding-bottom: 10px;
+}
